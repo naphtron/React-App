@@ -1,0 +1,12 @@
+body{
+    background-color: #AFDDE5;
+}
+input,label{
+    margin-top: 10px;
+}
+
+.modal-content{
+    border-radius: 5px;
+    background-color: #AC8968;
+    /* color:#ff0000a6; */
+}
